@@ -1,0 +1,23 @@
+html{
+    background-color: rebeccapurple;
+}
+
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.blue{
+    background-color: blue;
+    height: 400px;
+    width: 300px;
+    border: 2px solid red;
+}
+
+.green{
+    background-color: green;
+    height: 600px;
+    width: 250px;
+    border-radius: 6px;
+}
